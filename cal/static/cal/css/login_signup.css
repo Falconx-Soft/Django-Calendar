@@ -1,0 +1,30 @@
+::placeholder {
+    color: #868686;
+    opacity: 0.5; /* Firefox */
+    font-style: italic;
+    font-size: 12px;
+  }
+  
+  :-ms-input-placeholder { /* Internet Explorer 10-11 */
+   color: #868686;
+  }
+  
+  ::-ms-input-placeholder { /* Microsoft Edge */
+   color: #868686;
+  }
+  .message_container{
+    display: flex;
+    justify-content: center;
+  }
+  .message_block{
+    font-size: 13px;
+    margin-top: 22px;
+    color: #cbcbcb;
+
+  }
+  .dest_block{
+    color: #1da1f2 !important;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 16px;
+  }

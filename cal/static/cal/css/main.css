@@ -1,0 +1,44 @@
+input{
+    border: 1px solid !important;
+}
+.create_group_block{
+    padding-top: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+.input_block{
+    width: 30%;
+    padding: 12px;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 0%);
+    margin-bottom: 40px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.input_box_header{
+    color: #1da1f2;
+    font-size: 22px;
+    margin-bottom: 24px;
+}
+.input-login{
+    padding: 10px;
+    width: 100%;
+    outline: none;
+    border-color: #e5e5e5 !important;
+}
+.input-login:hover{
+    border-color: #1da1f2 !important;
+}
+.input-login:focus{
+    border-color: #1da1f2 !important;
+}
+.signup_input{
+    margin-bottom: 26px;
+}
+.submit_button{
+    padding: 10px;
+    background: #5bc0de;
+    border: none;
+    font-size: 16px;
+    border-radius: 6px;
+}
